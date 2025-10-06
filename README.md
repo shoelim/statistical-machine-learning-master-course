@@ -26,3 +26,5 @@
 
 - Lecture 12: [slides](https://github.com/shoelim/principles-of-statistical-machine-learning/blob/main/slides_L12.pdf),  [code](https://colab.research.google.com/drive/1WgDd8PzFqBrxtY8ZK81P2xSRmmX3rkrI?usp=sharing)
 
+- Lecture 13: [slides](https://github.com/shoelim/principles-of-statistical-machine-learning/blob/main/slides_L13.pdf), [code](https://colab.research.google.com/drive/1pk_VwygdWe9-HQVKO_z-NyJ4W_VrAPex?usp=sharing)
+
